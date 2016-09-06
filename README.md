@@ -1,1 +1,1 @@
-this is readme file
+这个是为log日志做初始化配置的文件。在工程里只要直接引入这个文件。然后在main方法里调用`mylog.LogInit()`就可以使用支持分级显示的日志了。
